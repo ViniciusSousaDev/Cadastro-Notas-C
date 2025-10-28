@@ -23,7 +23,6 @@ int main(int argc, char const *argv[])
 }
 void menu(){
     
-    //system("clear"); //linux
     system ("cls"); //windows
 
     int op;
